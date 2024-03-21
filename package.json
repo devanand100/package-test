@@ -1,0 +1,22 @@
+{
+  "name": "sampleeee",
+  "version": "1.0.0",
+  "description": "Package for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devanand100/package-test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Devanand kariya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devanand100/package-test/issues"
+  },
+  "homepage": "https://github.com/devanand100/package-test#readme"
+}
